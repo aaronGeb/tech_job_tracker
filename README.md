@@ -84,10 +84,20 @@ tech_job_tracker/
     uv install
     ```
 
+# Running the Scraper
+Run the main script to initialize the database and scrape job listings:
+    ```
+    python scripts/run_scraper.py
+    ```
 
 
 
-docs
-  - api
-  - examples
-  - getting-started
+
+
+
+# License
+MIT [LICENSE](../tech_job_tracker/LICENSE) © 2025 Aaron.
+
+# Contact
+Feel free to open issues or submit pull requests.
+You can reach me at [Email](aarongebremariam.94@gmail.com)
