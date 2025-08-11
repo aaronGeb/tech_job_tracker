@@ -39,7 +39,7 @@ tech_job_tracker/
 │   └── run_scraper.py
 │
 ├── .env
-├── requirements.txt
+├── pyproject.toml
 └── README.md
 
 ```
